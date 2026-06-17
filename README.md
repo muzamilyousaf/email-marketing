@@ -195,7 +195,7 @@ Muzamil
 
 - 💼 **LinkedIn:** [linkedin.com/in/muzamilyousaf](https://linkedin.com/in/muzamilyousaf)
 - 🐙 **GitHub:** [github.com/muzamilyousaf](https://github.com/muzamilyousaf)
-- 🌐 **Portfolio:** [muzamil-yousafportfolio.netlify.app](https://muzamil-yousafportfolio.netlify.app)
+- 🌐 **Portfolio:** [https://muzamil-yousaf-portfolio.netlify.app/](https://muzamil-yousaf-portfolio.netlify.app/)
 - 📸 **Instagram:** [@muzamilyousaf_3](https://instagram.com/muzamilyousaf_3)
 
 ---
