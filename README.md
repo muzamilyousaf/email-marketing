@@ -1,7 +1,7 @@
-# 📧 Email Marketing Campaigns — Portfolio
+# 📧 Email Marketing Campaigns Portfolio
 
 > **B2B Cold Email Outreach | Lead Generation | Multi-Step Sequences**  
-> Real campaign data from FoxReach — managed end-to-end by Muzamil Yousaf
+> Real campaign data from FoxReach managed end-to-end by Muzamil Yousaf
 
 ---
 
@@ -47,14 +47,14 @@ Sequences    : 2-step follow-up
 
 ### Why it worked:
 - ✅ Large verified lead list (34K+) properly segmented
-- ✅ 2-step sequence — initial email + follow-up for warm leads
+- ✅ 2-step sequence initial email + follow-up for warm leads
 - ✅ Evening sending window aligned with US business hours
 - ✅ 26 warmed-up accounts to distribute sending load
 - ✅ Consistent daily cadence of 2,600 emails
 
 ---
 
-## ⚙️ Campaign Setup — How I Run Campaigns
+## ⚙️ Campaign Setup How I Run Campaigns
 
 ### Step 1: Lead Sourcing
 ```
@@ -148,7 +148,7 @@ Best,
 Muzamil
 ```
 
-### Follow-Up — Day 4
+### Follow-Up Day 4
 ```
 Subject: Re: Quick question, {{First Name}}
 
