@@ -193,7 +193,7 @@ Muzamil
 
 ## 📞 Let's Connect
 
-- 💼 **LinkedIn:** [linkedin.com/in/muzamilyousaf](https://linkedin.com/in/muzamilyousaf)
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/muzamil-yousaf/)(https://www.linkedin.com/in/muzamil-yousaf/)
 - 🐙 **GitHub:** [github.com/muzamilyousaf](https://github.com/muzamilyousaf)
 - 🌐 **Portfolio:** [https://muzamil-yousaf-portfolio.netlify.app/](https://muzamil-yousaf-portfolio.netlify.app/)
 - 📸 **Instagram:** [@muzamilyousaf_3](https://instagram.com/muzamilyousaf_3)
