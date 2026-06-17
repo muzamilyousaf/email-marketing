@@ -21,11 +21,11 @@ I'm a **Business Development Executive** at **Buildberg** with 1+ year of hands-
 | Campaign | Leads | Emails Sent | Replies | Bounce Rate | Status |
 |---|---|---|---|---|---|
 | 🏆 Winbid Campaign April | 34,483 | 56,135 | 333 | 11.7% | ✅ Completed |
-| Winbid Estimation USA March | 46 | 20,700 | 207 | 11.4% | ✅ Completed |
+| Winbid Estimation USA March | 10,000 | 20,700 | 207 | 11.4% | ✅ Completed |
 | Winbid Estimation USA | 8,645 | 22,204 | 235 | 7.9% | ✅ Completed |
-| Winbid Campaign 13 March | — | 44,951 | 300 | 4.6% | ✅ Completed |
+| Winbid Campaign 13 March | 11,000| 44,951 | 300 | 4.6% | ✅ Completed |
 | Social Media Outreach Jun | 5,994 | 9,395 | 28 | 13.1% | 🟢 Active |
-| New Campaign April | 1 | 1,192 | 97 | 8.0% | ✅ Completed |
+| New Campaign April | 530 | 1,192 | 97 | 8.0% | ✅ Completed |
 
 > **Total Emails Sent: 154,597+ · Total Replies: 1,200+ · Accounts Managed: 29+**
 
